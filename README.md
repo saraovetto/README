@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm sara</h1>
 <h3 align="center">A junior bioinformatician</h3>
 
-- 🔭 I’m currently working on my master's thesis @ Human Technopole, Milan.
+- 🔭 I’m currently working in the Glastonbury Group @ Human Technopole, Milan.
 
 - 👩🏻‍💻 Here you can find all my projects!
 
